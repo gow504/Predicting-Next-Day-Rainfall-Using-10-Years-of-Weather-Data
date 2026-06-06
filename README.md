@@ -5,14 +5,23 @@ This project uses Logistic Regression to predict next-day rainfall based on hist
 
 ## Key Features
 
-Analysis of 10 years of weather data
-Data cleaning and preprocessing
-Exploratory Data Analysis (EDA)
-Feature selection and engineering
-Logistic Regression classification model
-Model evaluation using Accuracy, Precision, Recall, and F1-Score
-Next-day rainfall prediction based on weather conditions
-Data visualization and performance insights
+.Analysis of 10 years of weather data
+
+.Data cleaning and preprocessing
+
+.Exploratory Data Analysis (EDA)
+
+.Feature selection and engineering
+
+
+.Logistic Regression classification model
+
+.Model evaluation using Accuracy, Precision, Recall, and F1-Score
+
+
+.Next-day rainfall prediction based on weather conditions
+
+.Data visualization and performance insights
 
 ## Tech Stack
 
